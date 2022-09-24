@@ -1,0 +1,23 @@
+{
+  "name": "node-samplea-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanamit161998/NODE-SAMPLEA-APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanamit161998/NODE-SAMPLEA-APP/issues"
+  },
+  "homepage": "https://github.com/shanamit161998/NODE-SAMPLEA-APP#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
